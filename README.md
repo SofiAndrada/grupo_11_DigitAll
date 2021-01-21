@@ -50,5 +50,5 @@ línea, los hombres dominan las estadísticas, gastando un 28% más que las muje
 * https://store.sony.com.ar (presentacion de categorias de productos)
 * https://www.airport.com.ar (Presentacion de productos en el home orientado al publico especifico)
 * https://www.fulltechnology.com.ar (Implementacion de fotografias imagenes y composiciones)
-*https://www.shop.4krc.com.ar/?gclid=CjwKCAiAgJWABhArEiwAmNVTBzzuYmWvhENVZR6QLciBI86JAHhYrdaIkAOniMIOWZi0fYTmIKHwOxoCge0QAvD_BwE (Estética y funcionalidad)
+* https://www.shop.4krc.com.ar/?gclid=CjwKCAiAgJWABhArEiwAmNVTBzzuYmWvhENVZR6QLciBI86JAHhYrdaIkAOniMIOWZi0fYTmIKHwOxoCge0QAvD_BwE (Estética y funcionalidad)
 * https://www.armytech.com.ar/ (Productos y servicios que ofrecen)
