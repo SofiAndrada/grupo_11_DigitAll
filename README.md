@@ -59,3 +59,15 @@ línea, los hombres dominan las estadísticas, gastando un 28% más que las muje
 * https://www.shop.4krc.com.ar/?gclid=CjwKCAiAgJWABhArEiwAmNVTBzzuYmWvhENVZR6QLciBI86JAHhYrdaIkAOniMIOWZi0fYTmIKHwOxoCge0QAvD_BwE (Estética y funcionalidad)
 * https://www.armytech.com.ar/ (Productos y servicios que ofrecen)
 
+## Boceto o diseño del sitio:
+* 
+* Colores:
+  Paleta cromática a utilizar
+   * Bordo: 900c3f
+   * Rojo: C70039
+   * Naranja : ff5733
+   * Amarillo: ffd868
+* Tipografìa:
+   * Digital desolation plus
+   * Roboto
+   * Poppins
