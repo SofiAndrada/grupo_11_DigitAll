@@ -9,15 +9,19 @@
 
 ## Descripción de los integrantes:
 * Daniela Carabajal
+
 29 años, artista plástica, estudiante de educación y neurociencia. Estudiante de programacion web en Digital House.
 
 * Sofía Andrada
+
 20 años, técnica química, estudiante de tecnología de los alimentos. Estudiante de programación web en Digital House.
 
 * Gonzalo Fernandez Maidana
+
 31 años, bombero voluntario, ciclista, estudiante de seguridad e higiene. Estudiante de desarrollo web en Digital House.
 
 * Nicolas Fernandez
+
 28 años, estudiante de Programación Web en Digital House y Licenciatura en Informática.
 
 ## Temática del E-commerce:
