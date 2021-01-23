@@ -60,7 +60,7 @@ línea, los hombres dominan las estadísticas, gastando un 28% más que las muje
 * https://www.armytech.com.ar/ (Productos y servicios que ofrecen)
 
 ## Boceto o diseño del sitio:
-* 
+
 * Colores:
   Paleta cromática a utilizar
    * Bordo: 900c3f
