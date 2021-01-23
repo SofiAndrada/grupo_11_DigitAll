@@ -17,11 +17,7 @@
 * Gonzalo Fernandez Maidana
 31 años, bombero voluntario, ciclista, estudiante de seguridad e higiene. Estudiante de desarrollo web en Digital House.
 
-<<<<<<< HEAD
-*Nicolas Fernandez
-=======
 * Nicolas Fernandez
->>>>>>> aaa153a946d997de20aa0e3c1e98b5e55bad9c7a
 28 años, estudiante de Programación Web en Digital House y Licenciatura en Informática.
 
 ## Temática del E-commerce:
